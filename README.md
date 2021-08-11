@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
 <h3 align="center">A full-stack engineer with a passion for web security</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=intelli-zen" alt="intelli-zen" /></a> </p>
 
 - 🔭 I’m currently working on **multiple projects using react and tailwind**
 
