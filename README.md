@@ -1,4 +1,4 @@
-### Hi there, i'm Antony 👋
+### Hi there, i'm Sean 👋
 
 I'm a full stack engineer that enjoys building new things and experimenting with different ways to use technology.
 
