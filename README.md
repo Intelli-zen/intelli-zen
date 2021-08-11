@@ -1,6 +1,15 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sean</h1>
+<h3 align="center">A full-stack engineer with a passion for web security</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=intelli-zen" alt="intelli-zen" /></a> </p>
+
+- 🔭 I’m currently working on **multiple projects using react and tailwind**
+
+- 🌱 I’m currently learning **mobile app development and studying for my CISSP qualification**
+
+- 💬 Ask me about **anything reactJS or TailwindCSS**
+
+- ⚡ Fun fact **I have a dog that criticises my life choices**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -11,11 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intelli-zen&show_icons=true&locale=en" alt="intelli-zen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intelli-zen&" alt="intelli-zen" /></p>
-
-
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
