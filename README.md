@@ -18,5 +18,5 @@
 
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=intelli-zen&show_icons=true&locale=en" alt="intelli-zen" /></p>
-
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intelli-zen&" alt="intelli-zen" /></p>
