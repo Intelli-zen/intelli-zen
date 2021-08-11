@@ -17,4 +17,7 @@ My current focus is on all things JavaScript/TypeScript & NodeJS, with a little 
 
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
